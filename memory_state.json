@@ -1,0 +1,10 @@
+{
+  "memory_map": [
+    {
+      "start": 0,
+      "size": 256,
+      "pid": "FREE"
+    }
+  ],
+  "processes": []
+}
