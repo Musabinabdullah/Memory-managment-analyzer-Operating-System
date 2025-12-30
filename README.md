@@ -56,4 +56,5 @@ memory-management-analyzer/
 
 ## Author
 
-OS Memory Management Simulation Project
+OS Memory Management Simulation Project:
+YOUTUBE VIDEO LINK {https://youtu.be/THkFIadntQ4}
